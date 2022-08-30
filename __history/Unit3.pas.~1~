@@ -40,7 +40,6 @@ type
     Panel30: TPanel;
     Panel31: TPanel;
     Panel32: TPanel;
-    Timer1: TTimer;
   private
     { Private declarations }
   public
