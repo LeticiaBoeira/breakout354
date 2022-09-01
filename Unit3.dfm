@@ -19,6 +19,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clRed
+    ParentBackground = False
     TabOrder = 0
   end
   object Panel2: TPanel
@@ -27,6 +29,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clRed
+    ParentBackground = False
     TabOrder = 1
   end
   object Panel3: TPanel
@@ -35,6 +39,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clRed
+    ParentBackground = False
     TabOrder = 2
   end
   object Panel4: TPanel
@@ -43,6 +49,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clRed
+    ParentBackground = False
     TabOrder = 3
   end
   object Panel5: TPanel
@@ -51,6 +59,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clRed
+    ParentBackground = False
     TabOrder = 4
   end
   object Panel6: TPanel
@@ -59,6 +69,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clRed
+    ParentBackground = False
     TabOrder = 5
   end
   object Panel7: TPanel
@@ -67,6 +79,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clYellow
+    ParentBackground = False
     TabOrder = 6
   end
   object Panel8: TPanel
@@ -75,6 +89,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clYellow
+    ParentBackground = False
     TabOrder = 7
   end
   object Panel9: TPanel
@@ -83,6 +99,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clYellow
+    ParentBackground = False
     TabOrder = 8
   end
   object Panel10: TPanel
@@ -91,6 +109,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clYellow
+    ParentBackground = False
     TabOrder = 9
   end
   object Panel11: TPanel
@@ -99,6 +119,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clYellow
+    ParentBackground = False
     TabOrder = 10
   end
   object Panel12: TPanel
@@ -107,6 +129,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clYellow
+    ParentBackground = False
     TabOrder = 11
   end
   object Panel13: TPanel
@@ -115,6 +139,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clGreen
+    ParentBackground = False
     TabOrder = 12
   end
   object Panel14: TPanel
@@ -123,6 +149,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clGreen
+    ParentBackground = False
     TabOrder = 13
   end
   object Panel15: TPanel
@@ -131,6 +159,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clGreen
+    ParentBackground = False
     TabOrder = 14
   end
   object Panel16: TPanel
@@ -139,6 +169,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clGreen
+    ParentBackground = False
     TabOrder = 15
   end
   object Panel17: TPanel
@@ -147,6 +179,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clGreen
+    ParentBackground = False
     TabOrder = 16
   end
   object Panel18: TPanel
@@ -155,6 +189,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clGreen
+    ParentBackground = False
     TabOrder = 17
   end
   object Panel19: TPanel
@@ -163,6 +199,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clNavy
+    ParentBackground = False
     TabOrder = 18
   end
   object Panel20: TPanel
@@ -171,6 +209,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clNavy
+    ParentBackground = False
     TabOrder = 19
   end
   object Panel21: TPanel
@@ -179,6 +219,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clNavy
+    ParentBackground = False
     TabOrder = 20
   end
   object Panel22: TPanel
@@ -187,6 +229,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clNavy
+    ParentBackground = False
     TabOrder = 21
   end
   object Panel23: TPanel
@@ -195,6 +239,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clNavy
+    ParentBackground = False
     TabOrder = 22
   end
   object Panel24: TPanel
@@ -203,6 +249,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clNavy
+    ParentBackground = False
     TabOrder = 23
   end
   object Panel25: TPanel
@@ -211,6 +259,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clPurple
+    ParentBackground = False
     TabOrder = 24
   end
   object Panel26: TPanel
@@ -219,6 +269,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clPurple
+    ParentBackground = False
     TabOrder = 25
   end
   object Panel27: TPanel
@@ -227,6 +279,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clPurple
+    ParentBackground = False
     TabOrder = 26
   end
   object Panel28: TPanel
@@ -235,6 +289,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clPurple
+    ParentBackground = False
     TabOrder = 27
   end
   object Panel29: TPanel
@@ -243,6 +299,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clPurple
+    ParentBackground = False
     TabOrder = 28
   end
   object Panel30: TPanel
@@ -251,6 +309,8 @@ object Form3: TForm3
     Width = 137
     Height = 33
     Caption = 'Panel1'
+    Color = clPurple
+    ParentBackground = False
     TabOrder = 29
   end
   object Panel31: TPanel
@@ -259,6 +319,8 @@ object Form3: TForm3
     Width = 25
     Height = 25
     Caption = 'Panel31'
+    Color = clSilver
+    ParentBackground = False
     TabOrder = 30
   end
   object Panel32: TPanel
@@ -267,6 +329,8 @@ object Form3: TForm3
     Width = 201
     Height = 17
     Caption = 'Panel32'
+    Color = clHighlight
+    ParentBackground = False
     TabOrder = 31
   end
   object Timer1: TTimer
